@@ -29,5 +29,5 @@ like as '/Users/username/food_delivery_app/lib/core/main/main.dart'
 
 ### 3. Build Apk
 
-Run the following command to build the APK
-    flutter build apk  -t ./lib/core/main/main.dart
+Run the following command to build the APK 
+"flutter build apk  -t ./lib/core/main/main.dart"
