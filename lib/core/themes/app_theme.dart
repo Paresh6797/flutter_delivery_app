@@ -11,7 +11,7 @@ appLightTheme(BuildContext context) {
     ThemeData(
       brightness: Brightness.light,
       primarySwatch: createMaterialColor(whiteFFFFFFColor),
-      backgroundColor: whiteFFFFFFColor,
+      // backgroundColor: whiteFFFFFFColor,
       scaffoldBackgroundColor: whiteFFFFFFColor,
       textTheme: GoogleFonts.robotoTextTheme(ThemeData.light().textTheme),
 
